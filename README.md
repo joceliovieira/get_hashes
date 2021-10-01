@@ -4,7 +4,7 @@ Projeto desenvolvido com o objetivo de coletar hashes do tipo MD5 de documentos 
 
 ## Usando a API
 
-Para usar a API, basta hospedar a aplicação em um servidor, executar o arquivo main.py e acessar o endereço da mesma.
+Para usar a API, basta hospedar a aplicação em um servidor, executar o arquivo main.py e acessar o endereço da mesma. O ambiente onde a aplicação será executada deve conter os pacotes contidos no arquivo 'requirements.txt'.
 
 Ao acessar a aplicação, será disposta uma página solicitando os tipos de proposições a serem consultadas. As mesmas devem ser do tipo PL, PLP ou PEC, e devem ser escritas em letras maiúsculas separadas por vírgula.
 
